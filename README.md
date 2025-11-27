@@ -1,4 +1,4 @@
-# สัปดาห์ที ่ 1 - Tools & First Web Page
+# สัปดาห์ที่ 1 - Tools & First Web Page
 
 ## ไฟล์ที่สร้าง
 
