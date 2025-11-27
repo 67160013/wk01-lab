@@ -1,13 +1,13 @@
 # สัปดาห์ที ่ 1 - Tools & First Web Page
 
-## ไฟล์ที ่สร้าง
+## ไฟล์ที่สร้าง
 
 - **index.html** - HTML structure with semantic elements
 - **styles.css** - CSS styling with responsive design
 - **script.js** - JavaScript for interactivity
 - **README.md** - Project documentation
 
-## เรียนรู ้
+## เรียนรู้
 
 - Tools setup (VS Code, Node.js, Git)
 - HTML5 structure
